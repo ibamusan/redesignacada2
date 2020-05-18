@@ -1,0 +1,15 @@
+.container{
+  min-height: 100vh;
+  margin: 5rem auto;
+  background-color: #fff;
+  border-radius: 1rem;
+  box-shadow: var(--shadow-light);
+
+}
+
+header{
+  background-image: url(/img/banner.png);
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+}
